@@ -1,0 +1,145 @@
+body
+{
+    margin: 0;
+    padding: 0;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+/* navbar */
+.active
+{
+    color: dodgerblue!important;
+}
+.btn-primary
+{
+    border-radius: 10px;
+}
+h1{
+    font-size: 35px;
+    font-weight:bold;
+}
+.get
+{
+    height: 50px;
+    border: solid 2px dodgerblue;
+    border-radius: 20px;
+}
+/* services */
+.de
+{
+    box-shadow: 1px 10px 10px rgb(0,0,0,.3);
+    border-radius: 10px;
+    height: 370px;
+    width:260px
+
+}
+.de:hover
+{
+    background-color: dodgerblue;
+    color: white;
+}
+.fa-globe
+{
+    border-radius: 50%;
+    width: 60px;
+    height: 55px;
+    background-color: dodgerblue;
+    color: white;
+}
+.fa-globe:hover
+{
+    background-color: white;
+    color:  dodgerblue;
+}
+/* products*/
+.pro
+{
+    background-image: url("veb/pro1.jpg");
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    border-radius: 10px;
+
+}
+.pro1
+{
+    background-image: url("veb/pro2.jpg");
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    border-radius: 10px;
+}
+.pro2
+{
+    background-image: url("veb/pro3.jpg");
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    border-radius: 10px;
+}
+.pro3
+{
+    background-image: url("veb/pro4.jpg");
+    background-size: cover;
+    height: 350px;
+    width: 100%;
+    border-radius: 10px;
+}
+.protext
+{
+    background-color: white;
+    opacity: 0.8;
+    border-radius: 10px;
+    height: 220px; 
+}
+.pd
+{ background-color: violet;
+    height: 350px;
+    width: 100%;
+    border-radius: 10px;
+}
+.protext:hover
+{
+    background-color: dodgerblue;
+    color: white;
+    opacity: 1;
+}
+/* TEAM */
+.team
+{
+    background-color: orange;
+    
+    height: 100px;
+    width: 300px;
+    border-radius: 10px;
+}
+.team1
+{
+    background-color: red;
+    
+    height: 100px;
+    width: 300px;
+    border-radius: 10px;
+}
+/* contact */
+.fa-fw-a
+{
+  background-color: white;
+  border: 1px solid dodgerblue;
+  border-radius: 50%;
+  color: dodgerblue;
+  height: 40px;
+  width: 50px;
+}
+.fa-fw-a:hover
+{
+  background-color: dodgerblue;
+  border: 1px solid white;
+  border-radius: 50%;
+  color: white;
+  height: 40px;
+  width: 50px;
+}
+.lo
+{
+    text-decoration: none;
+}

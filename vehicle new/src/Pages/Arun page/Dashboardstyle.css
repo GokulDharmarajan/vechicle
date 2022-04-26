@@ -1,0 +1,77 @@
+/* navtop */
+.navtopcolor {
+  background-color: #393844;
+}
+.navtoptextcolor {
+  color: #827b87;
+}
+.navsearch {
+  color: #827b87;
+  border-radius: 30px;
+  background-color: #393844;
+}
+.navsearchheight {
+  height: 30px;
+}
+.navbellcolor {
+  color: #f43984;
+}
+.navenddiv {
+  height: 30px;
+  width: 30px;
+  background-color: #f3e636;
+  border-radius: 50%;
+}
+.texthidden {
+  visibility: hidden;
+}
+.navsearchborder1 {
+  border-left-style: none !important;
+}
+.navsearchborder2 {
+  border-right-style: none !important;
+}
+
+/* diverregistration */
+.dirverresfullc {
+  background-color: #3d3b52;
+}
+.textboxcolor {
+  color: white !important;
+  background-color: #232135 !important;
+}
+.buttoncolor {
+  background-color: #007aff !important;
+}
+
+/* Dashboard */
+.dashboardfullc {
+  background-color: #232135;
+}
+.dashdiv1color {
+  box-shadow: 0px 0px 2px 0px rgb(150, 150, 150);
+  height: 280px;
+}
+.dashdiv2color {
+  box-shadow: 0px 0px 2px 0px rgb(150, 150, 150);
+  height: 280px;
+}
+.dashdiv3color {
+  box-shadow: 0px 0px 2px 0px rgb(150, 150, 150);
+  height: 66px;
+}
+.dashdiv4color {
+  box-shadow: 0px 0px 2px 0px rgb(150, 150, 150);
+  height: 280px;
+  background-color: #3d3b52;
+}
+.dashdiv5color {
+  box-shadow: 0px 0px 2px 0px rgb(150, 150, 150);
+  height: 280px;
+  background-color: #3d3b52;
+}
+.dashdiv6color {
+  box-shadow: 0px 0px 2px 0px rgb(150, 150, 150);
+  height: 140px;
+  background-color: #232135;
+}
